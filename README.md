@@ -1,6 +1,6 @@
-# Dracula for [Ueli](https://ueli.app/#/)
+# Dracula for [ueli](https://ueli.app/#/)
 
-> A dark theme for [Ueli](https://ueli.app/#/).
+> A dark theme for [ueli](https://ueli.app/#/).
 
 ![Screenshot](./screenshot.png)
 
