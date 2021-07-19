@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Ueli](https://ueli.app/#/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Ueli](https://ueli.app/#/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ueli](https://draculatheme.com/ueli).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Sam Herring](https://github.com/capnsammeh.png?size=100)](https://github.com/capnsammeh) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Sam Herring](https://github.com/cappnsammeh) |
 
 ## License
 

@@ -1,0 +1,13 @@
+{
+    "name": "Dracula - Pink Highlights",
+    "userInputBackgroundColor": "#282a36",
+    "userInputTextColor": "#f8f8f2",
+    "searchResultsBackgroundColor": "#282a36",
+    "searchResultsItemActiveBackgroundColor": "#44475a",
+    "searchResultsItemActiveDescriptionColor": "#f8f8f2",
+    "searchResultsItemActiveTextColor": "#ff79c6",
+    "searchResultsItemDescriptionTextColor": "#f8f8f2",
+    "searchResultsItemNameTextcolor": "#6272a4",
+    "scrollbarBackgroundColor": "#282a36",
+    "scrollbarForegroundColor": "#44475a"
+}
