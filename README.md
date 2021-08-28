@@ -1,6 +1,6 @@
-# Dracula for [ueli](https://ueli.app/#/)
+# Dracula for [ueli](https://ueli.app)
 
-> A dark theme for [ueli](https://ueli.app/#/).
+> A dark theme for [ueli](https://ueli.app).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/ueli](https://draculatheme.co
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ueli/graphs/contributors).
 
 [![Sam Herring](https://github.com/capnsammeh.png?size=100)](https://github.com/capnsammeh) |
 --- |
-[Sam Herring](https://github.com/cappnsammeh) |
+[Sam Herring](https://github.com/capnsammeh) |
 
 ## License
 

@@ -1,4 +1,4 @@
-### [ueli](https://ueli.app/#/)
+### [ueli](https://ueli.app)
 
 #### Install using Git
 
